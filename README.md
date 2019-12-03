@@ -7,17 +7,31 @@ During the course of the project, many basic and advanced topics of Power BI wer
 
 A few of my Learning Outcomes were:
 
+
 -Importing data from files or from online
+
 -Using Query Editor
+
 -Joining tables and creating tables
+
 -Using quick measures and dynamic measures
+
 -Using conditional statements
+
 -Working with disconnected tables
+
 -Designing charts and visualizations
+
 -Formulating via DAX logic
+
 -CALCULATE, ALL, FILTER
+
 -POWER, DIVIDE, BLANK
+
 -SUMX and COUNTX
+
 -DATEDIFF, DATESBETWEEN, DATEADD
+
 -MTD, QTD, and YTD
+
 -Using X-factor functions
